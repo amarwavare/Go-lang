@@ -32,9 +32,9 @@ Steps to create a module in workspace
 │   ├── namaste.go
 │   └── ...other files
 ├── 02variables
-|   ├── go.mod
-|   ├── variables.go
-|   └── ...other files
+│   ├── go.mod
+│   ├── variables.go
+│   └── ...other files
 └── nextmodule
     ├── go.mod
     ├── file.go
