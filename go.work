@@ -1,0 +1,7 @@
+go 1.20
+
+use (
+	./modules/01namaste
+	./modules/02variables
+	./modules/03pointers
+)
