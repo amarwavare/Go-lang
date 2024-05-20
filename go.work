@@ -4,4 +4,5 @@ use (
 	./modules/01namaste
 	./modules/02variables
 	./modules/03pointers
+	./modules/04arrays
 )
