@@ -5,4 +5,5 @@ use (
 	./modules/02variables
 	./modules/03pointers
 	./modules/04arrays
+	./modules/05functions
 )
